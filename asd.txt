@@ -1,0 +1,14 @@
+Dollar, 1, USD, USA, 3.627, -0.028
+Pound, 1, GBP, Great Britain, 4.6677, -0.006
+Yen, 100, JPY, Japan, 3.2921, 0.559
+Euro, 1, EUR, EMU, 4.2403, -0.146
+Dollar, 1, AUD, Australia, 2.8769, 0.947
+Dollar, 1, CAD, Canada, 2.8739, 0.892
+krone, 1, DKK, Denmark, 0.5703, -0.123
+Krone, 1, NOK, Norway, 0.4553, -0.175
+Rand, 1, ZAR, South Africa, 0.2743, 0.073
+Krona, 1, SEK, Sweden, 0.4464, -0.268
+Franc, 1, CHF, Switzerland, 3.7450, 0.548
+Dinar, 1, JOD, Jordan, 5.1152, -0.033
+Pound, 10, LBP, Lebanon, 0.0241, 0
+Pound, 1, EGP, Egypt, 0.2042, 0.098
