@@ -1,14 +1,14 @@
-Dollar, 1, USD, USA, 3.627, -0.028
-Pound, 1, GBP, Great Britain, 4.6677, -0.006
-Yen, 100, JPY, Japan, 3.2921, 0.559
-Euro, 1, EUR, EMU, 4.2403, -0.146
-Dollar, 1, AUD, Australia, 2.8769, 0.947
-Dollar, 1, CAD, Canada, 2.8739, 0.892
-krone, 1, DKK, Denmark, 0.5703, -0.123
-Krone, 1, NOK, Norway, 0.4553, -0.175
-Rand, 1, ZAR, South Africa, 0.2743, 0.073
-Krona, 1, SEK, Sweden, 0.4464, -0.268
-Franc, 1, CHF, Switzerland, 3.7450, 0.548
-Dinar, 1, JOD, Jordan, 5.1152, -0.033
-Pound, 10, LBP, Lebanon, 0.0241, 0
-Pound, 1, EGP, Egypt, 0.2042, 0.098
+Dollar,1,USD,USA,3.624,-0.083
+Pound,1,GBP,Great Britain,4.6714,0.079
+Yen,100,JPY,Japan,3.3235,0.954
+Euro,1,EUR,EMU,4.2514,0.262
+Dollar,1,AUD,Australia,2.87,-0.24
+Dollar,1,CAD,Canada,2.8669,-0.244
+krone,1,DKK,Denmark,0.5718,0.263
+Krone,1,NOK,Norway,0.4563,0.22
+Rand,1,ZAR,South Africa,0.2739,-0.146
+Krona,1,SEK,Sweden,0.4460,-0.09
+Franc,1,CHF,Switzerland,3.7675,0.601
+Dinar,1,JOD,Jordan,5.1111,-0.08
+Pound,10,LBP,Lebanon,0.0241,0
+Pound,1,EGP,Egypt,0.2039,-0.147
